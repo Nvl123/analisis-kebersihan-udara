@@ -9,7 +9,7 @@ st.markdown("<p style='text-align: center; color: #808080;'>Pantau kualitas udar
 st.markdown("---")
 
 
-df_combined = pd.read_csv("main_data.csv")
+df_combined = pd.read_csv("https://drive.google.com/uc?id=1j3fQGRt9WVzqhAGse25ZXpa83pR3gFKw")
 
 
 
