@@ -271,7 +271,7 @@ def show_profile():
     st.sidebar.title("Tentang Saya")
     
     # Menambahkan foto profil (Pastikan Anda sudah punya gambar di folder yang tepat)
-    st.sidebar.image("Desain tanpa judul.png", width=150)  # Ganti dengan path gambar Anda
+    st.sidebar.image("dashboard/Desain tanpa judul.png", width=150)  # Ganti dengan path gambar Anda
     
     # Menambahkan deskripsi singkat tentang diri Anda
     st.sidebar.subheader("Nama: Cher")
