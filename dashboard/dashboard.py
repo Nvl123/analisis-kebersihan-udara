@@ -274,7 +274,7 @@ def show_profile():
     st.sidebar.image("dashboard/Desain tanpa judul.png", width=150)  # Ganti dengan path gambar Anda
     
     # Menambahkan deskripsi singkat tentang diri Anda
-    st.sidebar.subheader("Nama: Cher")
+    st.sidebar.subheader("Nama: Moh. Novil Ma'arij")
     st.sidebar.write("Saya adalah seorang pengembang dashboard dan peneliti data. "
                      "Saya memiliki latar belakang di bidang [sebutkan bidang studi atau profesi Anda]. "
                      "Saya membuat dashboard ini untuk memvisualisasikan kualitas udara dan memberikan insight "
